@@ -1,0 +1,6 @@
+.Card {
+  border: 1px solid lightblue;
+  border-radius: 8px;
+  margin-top: 15px;
+  padding: 10px;
+}
